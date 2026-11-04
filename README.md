@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:312E81,100:0891B2&height=150&section=header"/>
+
 <h1>⚡ HADIA WAHEED ⚡</h1>
 
 <h3>🧠 AI / ML Engineer &nbsp;•&nbsp; LLMs &nbsp;•&nbsp; Generative AI &nbsp;•&nbsp; RAG</h3>
@@ -14,7 +16,7 @@
 
 <br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,50:7C3AED,100:F59E0B&height=3&section=header"/>
 
 ## 👩‍💻 About Me
 
@@ -56,13 +58,42 @@ class HadiaWaheed:
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|:---|:---|
-| **🐍 Core ML** | `Python` · `PyTorch` · `Scikit-learn` · `Pandas` · `NumPy` |
-| **🤖 LLM & Retrieval** | `Hugging Face` · `Sentence Transformers` · `FAISS` · `Gemini API` |
-| **⚙️ Backend & Database** | `FastAPI` · `Flask` · `PostgreSQL` · `JavaScript` |
-| **🧰 Tools** | `Git` · `GitHub` · `Jupyter` · `Google Colab` · `VS Code` |
-| **🧩 AI Concepts** | `LLMs` · `RAG` · `Transformers` · `Embeddings` · `Vector Search` · `Prompt Engineering` · `Fine-Tuning` |
+<div align="center">
+
+**🔹 Core ML**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+**🔹 LLM & Retrieval**
+
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+
+**🔹 Backend & Database**
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**🔹 Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
+
+<br/>
+
+**🧩 AI Concepts:** `LLMs` · `RAG` · `Transformers` · `Embeddings` · `Vector Search` · `Prompt Engineering` · `Fine-Tuning`
 
 ---
 
@@ -152,9 +183,11 @@ I focus on the complete workflow behind intelligent systems: not just using AI m
 
 </details>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,50:7C3AED,100:F59E0B&height=3&section=header"/>
 
 <div align="center">
+
+<br/>
 
 <i>"Great engineering is not just about writing code.<br/>It is about understanding problems, exploring ideas, and building solutions that make a difference."</i>
 
@@ -162,12 +195,14 @@ I focus on the complete workflow behind intelligent systems: not just using AI m
 
 <h3>🤝 Have an AI idea, project or collaboration in mind? Let's connect!</h3>
 
-<a href="https://www.linkedin.com/in/hadia-waheed-1647892aa/"><b>🔗 LinkedIn</b></a> &nbsp;|&nbsp;
-<a href="mailto:hadiawaheed5@gmail.com"><b>✉️ Email</b></a> &nbsp;|&nbsp;
-<a href="https://github.com/HadiaWaheed"><b>💻 GitHub</b></a>
+<a href="https://www.linkedin.com/in/hadia-waheed-1647892aa/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hadiawaheed5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/HadiaWaheed"><img src="https://img.shields.io/badge/GITHUB-MY_WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
 <b>THANK YOU FOR VISITING MY PROFILE 💙</b>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:312E81,100:0891B2&height=130&section=footer"/>
